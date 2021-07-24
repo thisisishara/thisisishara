@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/isharadissanayake"
+<a class="github-button" href="https://linkedin.com/in/isharadissanayake" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-issue-closed" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">LinkedIn</a>
 
 <!--
 **thisisishara/thisisishara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
