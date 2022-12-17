@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 // import App from './App';
-import { webchatConfigs } from './configs';
+// import { webchatConfigs } from './configs';
  
 const root = ReactDOM.createRoot(document.getElementById('reactFrontendContainer'));
 root.render(
-  <React.StrictMode>
+  <React.StrictMode>In progress...
     {/* <App
       notify={false}
       appTheme={window.appTheme || "dark"}
