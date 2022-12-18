@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thisisishara/static/css/main.25c34aad.css",
-    "main.js": "/thisisishara/static/js/main.35e3041a.js",
-    "static/media/logo_bg.png": "/thisisishara/static/media/logo_bg.d8baff87fadc175e0f82.png",
+    "main.js": "/thisisishara/static/js/main.f2d57696.js",
+    "static/media/logo.png": "/thisisishara/static/media/logo.1d5d97d6d67bc7344b3f.png",
     "index.html": "/thisisishara/index.html",
     "main.25c34aad.css.map": "/thisisishara/static/css/main.25c34aad.css.map",
-    "main.35e3041a.js.map": "/thisisishara/static/js/main.35e3041a.js.map"
+    "main.f2d57696.js.map": "/thisisishara/static/js/main.f2d57696.js.map"
   },
   "entrypoints": [
     "static/css/main.25c34aad.css",
-    "static/js/main.35e3041a.js"
+    "static/js/main.f2d57696.js"
   ]
 }
