@@ -3,19 +3,14 @@
   "name": "kolloqe",
   "icons": [
     {
-      "src": "res/images/kolloqe-favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "res/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "res/images/logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "res/images/logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "res/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": ".",

@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.js": "/thisisishara/static/js/main.00f9cd20.js",
+    "main.css": "/thisisishara/static/css/main.e6e474ba.css",
+    "main.js": "/thisisishara/static/js/main.103412f1.js",
+    "static/media/kolloqe_steel.png": "/thisisishara/static/media/kolloqe_steel.9912e2f9001498809dad.png",
     "index.html": "/thisisishara/index.html"
   },
   "entrypoints": [
-    "static/js/main.00f9cd20.js"
+    "static/css/main.e6e474ba.css",
+    "static/js/main.103412f1.js"
   ]
 }
