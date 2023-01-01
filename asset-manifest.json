@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/thisisishara/static/css/main.ed781e0a.css",
-    "main.js": "/thisisishara/static/js/main.c7ced23c.js",
-    "static/media/12.png": "/thisisishara/static/media/12.c11b044dad03ef20ebfa.png",
-    "static/media/8.png": "/thisisishara/static/media/8.b0f2f6c34f4d229e70be.png",
-    "static/media/7.png": "/thisisishara/static/media/7.08034957752fde6e8b51.png",
-    "static/media/cv.pdf": "/thisisishara/static/media/cv.1d7bfe43bd8e742e5bf3.pdf",
-    "static/media/logo.png": "/thisisishara/static/media/logo.1d5d97d6d67bc7344b3f.png",
-    "index.html": "/thisisishara/index.html",
-    "main.ed781e0a.css.map": "/thisisishara/static/css/main.ed781e0a.css.map",
-    "main.c7ced23c.js.map": "/thisisishara/static/js/main.c7ced23c.js.map"
+    "main.css": "/static/css/main.ed781e0a.css",
+    "main.js": "/static/js/main.e19ac259.js",
+    "static/media/12.png": "/static/media/12.c11b044dad03ef20ebfa.png",
+    "static/media/8.png": "/static/media/8.b0f2f6c34f4d229e70be.png",
+    "static/media/7.png": "/static/media/7.08034957752fde6e8b51.png",
+    "static/media/cv.pdf": "/static/media/cv.1d7bfe43bd8e742e5bf3.pdf",
+    "static/media/logo.png": "/static/media/logo.1d5d97d6d67bc7344b3f.png",
+    "index.html": "/index.html",
+    "main.ed781e0a.css.map": "/static/css/main.ed781e0a.css.map",
+    "main.e19ac259.js.map": "/static/js/main.e19ac259.js.map"
   },
   "entrypoints": [
     "static/css/main.ed781e0a.css",
-    "static/js/main.c7ced23c.js"
+    "static/js/main.e19ac259.js"
   ]
 }
