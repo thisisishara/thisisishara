@@ -46,7 +46,7 @@ const Header = () => {
             target={"_blank"}
             rel={"noreferrer"}
           >
-            Download CV
+            Download Resume
           </motion.a>
           <motion.a
             whileHover={{ scale: 1.05 }}
