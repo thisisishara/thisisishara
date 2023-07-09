@@ -67,7 +67,7 @@ const Header = () => {
           </div>
         </div>
 
-        <a href="" className="scroll__down hidden">
+        <a href="." className="scroll__down hidden">
           Reload
         </a>
       </div>
