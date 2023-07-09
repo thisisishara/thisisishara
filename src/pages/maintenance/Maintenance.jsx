@@ -7,7 +7,7 @@ export default function Maintenance() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          This site is under <code>maintenance</code>
+          Oops! This site is under maintenance 💀⚡
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ export default function Maintenance() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit the <code>GitHub</code> profile for now
+          Visit the GitHub profile for now
         </a>
       </header>
     </div>

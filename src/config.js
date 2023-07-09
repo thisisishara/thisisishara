@@ -1,5 +1,5 @@
 export let configs = {
-  maintenance: false,
+  maintenance: true,
   theme: "dark",
   storage: "local"
 };
