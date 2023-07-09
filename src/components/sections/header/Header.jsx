@@ -1,8 +1,11 @@
 import React from "react";
 import "./header.css";
-import CV from "../../../res/cv.pdf";
-import Me from "../../../res/avatars/12.png";
-import MeHover from "../../../res/avatars/7.png";
+// import CV from "../../../res/cv.pdf";
+import CV from "../../../res/cvr.pdf";
+// import Me from "../../../res/avatars/12.png";
+import Me from "../../../res/me_sbg_round.png";
+// import MeHover from "../../../res/avatars/7.png";
+import MeHover from "../../../res/me_sbg_round.png";
 import HeaderSocials from "./HeaderSocials";
 import { motion } from "framer-motion";
 
@@ -11,6 +14,7 @@ const Header = () => {
     <header>
       <div className="container header__container">
         <motion.h5
+          className="text-light"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.5 }}
@@ -30,7 +34,7 @@ const Header = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.7 }}
         >
-          an Associate Data Scientist
+          a Data Scientist @ShoutOUT AI
         </motion.h5>
         <div className="cta">
           <motion.a
@@ -46,7 +50,7 @@ const Header = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.8 }}
-            href="#contact"
+            href="mailto:thisismaduishara@gmail.com"
             className="btn btn-primary"
           >
             Get in Touch

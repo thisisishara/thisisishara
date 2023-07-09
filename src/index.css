@@ -16,7 +16,7 @@
 :root {
   --color-bg: #161617;
   --color-bg-variant: #388E3C;
-  --color-primary: #99CC66;
+  --color-primary: #939393;
   --color-primary-variant: #388E3C;
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
@@ -42,7 +42,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/res/test/bg-texture.png);
+  background-image: url(../src/res/test/new-tx24.png);
   background-attachment: fixed;
 }
 
