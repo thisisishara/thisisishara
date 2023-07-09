@@ -22,7 +22,7 @@ const Header = () => {
           This is
         </motion.h5>
         <motion.h1
-          className="text__gradient"
+          className="text__gradient_tf"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2, delay: 0.3 }}
@@ -35,7 +35,7 @@ const Header = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.7 }}
         >
-          a Data Scientist @ShoutOUT AI
+          a <span className="text__gradient_spacy">Data Scientist</span> @ShoutOUT AI
         </motion.h5>
         <div className="cta">
           <motion.a
@@ -62,13 +62,13 @@ const Header = () => {
 
         <div className="avatar__container">
           <div className="me">
-            <img src={Me} alt="Me" className="me1" />
-            <img src={MeHover} alt="Me" className="me2" />
+            <img src={Me} alt="Me" className="me1 no-drag" />
+            <img src={MeHover} alt="Me" className="me2 no-drag" />
           </div>
         </div>
 
-        <a href="#contact" className="scroll__down">
-          Scroll Down
+        <a href="" className="scroll__down hidden">
+          Reload
         </a>
       </div>
     </header>

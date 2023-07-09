@@ -70,15 +70,23 @@ header {
   right: -2.3rem;
   bottom: 5rem;
   transform: rotate(90deg);
-  font-weight: 300;
+  font-weight: 400;
   font-size: 0.9rem;
 }
 
-.text__gradient {
+.text__gradient_tf {
   background: linear-gradient(to right, #ff7424, #ffce52);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
+}
+
+.text__gradient_spacy {
+  background: linear-gradient(to right, #0993e9, #52c8ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 700;
 }
 
 .btn__cta__hover:hover {
