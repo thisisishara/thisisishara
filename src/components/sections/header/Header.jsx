@@ -54,7 +54,7 @@ const Header = () => {
             href="mailto:thisismaduishara@gmail.com"
             className="btn btn-primary"
           >
-            Get in Touch
+            Drop an Email
           </motion.a>
         </div>
 
