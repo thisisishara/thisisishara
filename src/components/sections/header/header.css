@@ -34,16 +34,19 @@ header {
   background: var(--color-primary);
 }
 
+.avatar__container {
+  width: 100%;
+  height: calc(100vh - 20rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .me {
-  /* background: linear-gradient(#000000, transparent); */
   width: 15rem;
   height: 15rem;
-  position: absolute;
-  left: calc(50% - 7.5rem);
-  margin-top: 7.5rem;
   border-radius: 50%;
   overflow: hidden;
-  padding: 1rem;
 }
 
 .me1 {
@@ -69,6 +72,19 @@ header {
   transform: rotate(90deg);
   font-weight: 300;
   font-size: 0.9rem;
+}
+
+.text__gradient {
+  background: linear-gradient(to right, #ff7424, #ffce52);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.btn__cta__hover:hover {
+  color: var(--color-white) !important;
+  border-color: transparent !important;  
+  background: linear-gradient(to right, #2b9e14, #2b9e14) !important;
 }
 
 /* Media Queries */

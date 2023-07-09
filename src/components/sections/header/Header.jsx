@@ -14,7 +14,7 @@ const Header = () => {
     <header>
       <div className="container header__container">
         <motion.h5
-          className="text-light"
+          className="text__light"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.5 }}
@@ -22,6 +22,7 @@ const Header = () => {
           This is
         </motion.h5>
         <motion.h1
+          className="text__gradient"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2, delay: 0.3 }}
@@ -29,7 +30,7 @@ const Header = () => {
           Ishara Dissanayake
         </motion.h1>
         <motion.h5
-          className="text-light"
+          className="text__light"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.7 }}
@@ -59,17 +60,11 @@ const Header = () => {
 
         <HeaderSocials />
 
-        <div className="me">
-          <img
-            src={Me}
-            alt="Me"
-            className="me1"
-          />
-          <img
-            src={MeHover}
-            alt="Me"
-            className="me2"
-          />
+        <div className="avatar__container">
+          <div className="me">
+            <img src={Me} alt="Me" className="me1" />
+            <img src={MeHover} alt="Me" className="me2" />
+          </div>
         </div>
 
         <a href="#contact" className="scroll__down">
