@@ -88,4 +88,8 @@ header {
   .scroll__down {
     display: none;
   }
+  
+  .me {
+    margin-top: 2rem;
+  }
 }
