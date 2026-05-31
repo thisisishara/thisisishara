@@ -5,22 +5,23 @@
 <h3 align="center">Hi, I'm Ishara 👋🏽</h3>
 
 <p align="center">
-  AI Engineer &nbsp;•&nbsp; LLM Applications &nbsp;•&nbsp; AI Research
+  AI Engineer • LLM Applications • AI Research
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/isharadissanayake">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://thisisishara.github.io/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://pypi.org/user/thisisishara/">PyPI</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.npmjs.com/~thisisishara">npm</a>
+  <a href="https://linkedin.com/in/isharadissanayake">LinkedIn</a> •
+  <a href="https://thisisishara.github.io/">Portfolio</a> •
+  <a href="https://huggingface.co/thisisishara">HuggingFace</a> •
+  <a href="https://www.kaggle.com/thisisishara">Kaggle</a> •
+  <a href="https://pypi.org/user/thisisishara/">PyPI</a> •
+  <a href="https://www.npmjs.com/~thisisishara">npm</a> •
+  <a href="https://www.hackerrank.com/thisisishara">HackerRank</a> •
+  <a href="mailto:thisismaduishara@gmail.com">Email</a>
 </p>
 
 ---
 
-**Building** LLM applications, RAG pipelines, and production AI-powered applications.
+**Building** LLM applications, RAG pipelines, and production AI-powered systems.
 
 **Exploring** open-source tooling, evaluation frameworks, and developer experience.
 
