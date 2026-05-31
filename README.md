@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/isharadissanayake">LinkedIn</a> •
-  <a href="https://thisisishara.github.io/">Portfolio</a> •
-  <a href="https://huggingface.co/thisisishara">HuggingFace</a> •
-  <a href="https://www.kaggle.com/thisisishara">Kaggle</a> •
-  <a href="https://pypi.org/user/thisisishara/">PyPI</a> •
-  <a href="https://www.npmjs.com/~thisisishara">npm</a> •
-  <a href="https://www.hackerrank.com/thisisishara">HackerRank</a> •
-  <a href="mailto:thisismaduishara@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/isharadissanayake" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="https://thisisishara.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="https://huggingface.co/thisisishara" target="_blank" rel="noopener noreferrer">HuggingFace</a> •
+  <a href="https://www.kaggle.com/thisisishara" target="_blank" rel="noopener noreferrer">Kaggle</a> •
+  <a href="https://pypi.org/user/thisisishara/" target="_blank" rel="noopener noreferrer">PyPI</a> •
+  <a href="https://www.npmjs.com/~thisisishara" target="_blank" rel="noopener noreferrer">npm</a> •
+  <a href="https://www.hackerrank.com/thisisishara" target="_blank" rel="noopener noreferrer">HackerRank</a> •
+  <a href="mailto:thisismaduishara@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </p>
 
 ---
