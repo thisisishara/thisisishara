@@ -18,11 +18,3 @@
   <a href="https://www.hackerrank.com/thisisishara">HackerRank</a> •
   <a href="mailto:thisismaduishara@gmail.com">Email</a>
 </p>
-
----
-
-**Building** LLM applications, RAG pipelines, and production AI-powered systems.
-
-**Exploring** open-source tooling, evaluation frameworks, and developer experience.
-
-**Researching** emerging AI capabilities, reasoning systems, and intelligent agents.
