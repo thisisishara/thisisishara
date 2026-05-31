@@ -5,16 +5,21 @@
 <h3 align="center">Hi, I'm Ishara 👋🏽</h3>
 
 <p align="center">
-  AI Engineer • Data Scientist • NLP Enthusiast
+  AI Engineer &nbsp;•&nbsp; LLM Applications &nbsp;•&nbsp; ML Research
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/isharadissanayake" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="https://thisisishara.github.io/" target="_blank">
-    Portfolio
-  </a>
-  <kbd>⚡ in dev mode</kbd>
+  <a href="https://linkedin.com/in/isharadissanayake">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://thisisishara.github.io/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://pypi.org/user/thisisishara/">PyPI</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.npmjs.com/~thisisishara">npm</a>
 </p>
+
+---
+
+**Building** LLM applications, RAG pipelines, and production AI systems.  
+**Exploring** open-source tooling, evaluation frameworks, and developer experience.  
+**Shipping** things at the intersection of AI research and real-world products.
