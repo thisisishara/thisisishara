@@ -5,7 +5,7 @@
 <h3 align="center">Hi, I'm Ishara 👋🏽</h3>
 
 <p align="center">
-  AI Engineer &nbsp;•&nbsp; LLM Applications &nbsp;•&nbsp; ML Research
+  AI Engineer &nbsp;•&nbsp; LLM Applications &nbsp;•&nbsp; AI Research
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 ---
 
-**Building** LLM applications, RAG pipelines, and production AI systems.  
-**Exploring** open-source tooling, evaluation frameworks, and developer experience.  
-**Shipping** things at the intersection of AI research and real-world products.
+**Building** LLM applications, RAG pipelines, and production AI-powered applications.
+
+**Exploring** open-source tooling, evaluation frameworks, and developer experience.
+
+**Researching** emerging AI capabilities, reasoning systems, and intelligent agents.
